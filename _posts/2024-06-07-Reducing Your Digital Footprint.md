@@ -45,7 +45,7 @@ First and foremost, it is extremely important to setup multi-factor authenticati
 
 ### Slow down; read your hyperlinks and error messages.
 
-Speaking of previously breached passwords, a great website to use when determining the most recent data leak that applies to you, is https://haveibeenpwned.com/.
+Speaking of previously breached passwords, a great website to use when determining the most recent data leak that applies to you, is [https://haveibeenpwned.com](https://haveibeenpwned.com/).
 
 Your first thought may be "Clicking on a link? Yeah right, nice try!", and if it is, then that's awesome! Being skeptical of what you click is always a staple to being safe online. 
 Sometimes that means slowing down and making sure to read everything, before clicking. Some links, known as [hyperlinks](https://en.wikipedia.org/wiki/Hyperlink#:~:text=In%20computing%2C%20a%20hyperlink%2C%20or,specific%20element%20within%20a%20document.), can change the text of the link, and even trick you into thinking you're going somewhere else. To counter this, hovering over a link can show you where it will actually be taking you. Always look for the Domain Name, and the Top Level Domain (TLD) in the link. You likely already do this, but this is essentially the website you'll be redirected to. For example, in the link: 
@@ -55,14 +55,14 @@ Sometimes that means slowing down and making sure to read everything, before cli
 The Domain is "gethacked", and the TLD is ".com". The real domain, or website name, is always before the last period. Don't be fooled by people who add other real domain names to their subdomains like the latter example. It's also important to watch out for typosquatting. "A TypoSquatting attack takes advantage of instances where a user mistypes a URL (e.g. www.goggle.com) or does not visually verify a URL before clicking on it (e.g. phishing attack)" [MITRE](https://capec.mitre.org/data/definitions/630.html).
 
 
-For someone who wants more validation of what a website is before clicking, for instance https://haveibeenpwned.com, it may be better to instead Google "haveibeenpwned" without the TLD, ".com". If there is no other information about the website, or a wikipedia article about it, you may need to input the URL to a tool like [Virus Total](https://www.virustotal.com/gui/home/url). This tool will check the website for malware and let you know if traveling there will be safe. If the website is still suspicious upon entering, it's possible that Virus Total only scanned the landing page of the website. Be cautious when exploring the internet with every click.
+For someone who wants more validation of what a website is before clicking, for instance [https://haveibeenpwned.com](https://haveibeenpwned.com/), it may be better to instead Google "haveibeenpwned" without the TLD, ".com". If there is no other information about the website, or a wikipedia article about it, you may need to input the URL to a tool like [Virus Total](https://www.virustotal.com/gui/home/url). This tool will check the website for malware and let you know if traveling there will be safe. If the website is still suspicious upon entering, it's possible that Virus Total only scanned the landing page of the website. Be cautious when exploring the internet with every click.
 
 Far too many people get in the habit of clicking close or exit when encountered with popups. It's always a good idea to slow down and read them, because sometimes the solution to the popup is right in the error text.
 
 <br>
 
 ### Change breached email account's passwords.
-  https://haveibeenpwned.com is amazing for checking to see if your email has been breached and what service it was breached through. 
+[Haveibeenpwned.com](https://haveibeenpwned.com/) is amazing for checking to see if your email has been breached and what service it was breached through. 
 
 Most emails older than a few years have been involved in at least one of these breaches. If you see your email was breached, it may be best to change your password if you haven't changed it since the date of the breach.
 
