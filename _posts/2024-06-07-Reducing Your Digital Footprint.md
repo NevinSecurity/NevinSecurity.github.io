@@ -8,20 +8,20 @@ Reducing your digital footprint isn't only beneficial to your employer's securit
 No system is impervious to hacking, much like a castle is never completely immune to infiltration. However, just as a fortified castle has multiple layers of defenses; moats, walls, gates, and guards, effective cybersecurity relies on implementing various layers of protection. Each layer adds strength to the overall defense, making it more difficult for adversaries to breach the system and minimizing the potential damage if they do.
 
 There are many different attacks that hackers can use to steal from individuals, but here are a few that you can soon be a pro at blocking:  
-```
-    Phishing: Trickery through fake emails or messages, pretending to be trustworthy sources, to steal personal information or login credentials.
 
-    Pig Butchering / Catfishing: Creating fake online personas to deceive others into romantic relationships or financial scams.
-
-    Tech Support / Gift Card Scams: Pretending to be tech support or offering fake prizes, then tricking victims into providing money or gift card codes for supposed fixes or rewards.
-
-    Password Reuse Attacks: Exploiting the use of the same password across multiple accounts to gain unauthorized access to sensitive information or services.
-
-    Identity Theft: Stealing personal information, such as Social Security numbers or credit card details, to impersonate individuals for financial gain or fraudulent activities.
-
-    Baiting: Tempting individuals with enticing offers or promises to lure them into compromising situations, such as clicking on malicious links or downloading infected files.
-```
 <br>
+
+* Phishing: Trickery through fake emails or messages, pretending to be trustworthy sources, to steal personal information or login credentials.
+
+* Pig Butchering / Catfishing: Creating fake online personas to deceive others into romantic relationships or financial scams.
+
+* Tech Support / Gift Card Scams: Pretending to be tech support or offering fake prizes, then tricking victims into providing money or gift card codes for supposed fixes or rewards.
+
+* Password Reuse Attacks: Exploiting the use of the same password across multiple accounts to gain unauthorized access to sensitive information or services.
+
+* Identity Theft: Stealing personal information, such as Social Security numbers or credit card details, to impersonate individuals for financial gain or fraudulent activities.
+
+* Baiting: Tempting individuals with enticing offers or promises to lure them into compromising situations, such as clicking on malicious links or downloading infected files.
 
 <br>
 
@@ -34,6 +34,7 @@ Here are some of the layers that, if implemented, can drastically increase your 
 * Use a password manager.
 * Limit your exposure.
 
+<br>
 
 ### Use MFA where ever possible.
 First and foremost, it is extremely important to setup multi-factor authentication (MFA, or sometimes 2FA) where ever possible. This is the little code or push notification that you get while logging in to prove it's really you. Although it can be slightly annoying, it drastically increases the security of accounts. This will likely be the single, most beneficial step to secure you. This will always be available for your email, bank, and social media accounts. It can prevent someone getting into your account if you have weak passwords, or have reused passwords that have been breached in the past.
