@@ -7,7 +7,7 @@ No system is impervious to hacking, much like a castle is never completely immun
 
 Reducing your digital footprint isn't only beneficial to you, it can help strengthen your family's, friend's, and employer's security. It's important to have good security, because it makes you way less likely to fall for any scams or phishing attempts.
 
-While you may feel like you're not at risk yourself, if you work for a company, chances are the risks are a lot higher than you'd expect. Globally, 72.7% of all organizations fell prey to a ransomware attack in 2023 ([cobalt](https://www.cobalt.io/blog/cybersecurity-statistics-2024)). Security professionals have observed an increase in cyberattacks over the past year, and some think it'll increase for years to come.
+While you may feel like you're not at risk yourself, if you work for a company, chances are the risks are a lot higher than you'd expect. Globally, 72.7% of all organizations fell prey to a ransomware attack in 2023 ([cobalt](https://www.cobalt.io/blog/cybersecurity-statistics-2024)). When a company is ransomwared, all operations are stopped. No one has any notes of who works at the company, what their paid, and who their clients are. While this may just mean finding another job, it can be increasingly more devistating depending on the job market. Security professionals have observed an increase in cyberattacks over the past year, and some think it'll increase for years to come.
 
 There are many different attacks that hackers can use to steal from individuals, but here are a few that you can soon be a pro at blocking:  
 
