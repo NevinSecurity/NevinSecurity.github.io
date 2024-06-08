@@ -1,7 +1,6 @@
 # What is a Digital Footprint and why is it important?
 
-### A digital footprint – sometimes called a digital shadow or an electronic footprint – refers to the trail of data you leave when using the internet. It includes websites you visit, emails you send, and information you submit online. A digital footprint can be used to track a person's online activities and devices 
-ref: [Kaspersky](https://usa.kaspersky.com/resource-center/definitions/what-is-a-digital-footprint#:~:text=A%20digital%20footprint%20%E2%80%93%20sometimes%20called,person%27s%20online%20activities%20and%20devices.)
+### A digital footprint – sometimes called a digital shadow or an electronic footprint – refers to the trail of data you leave when using the internet. It includes websites you visit, emails you send, and information you submit online. A digital footprint can be used to track a person's online activities and devices ([Kaspersky](https://usa.kaspersky.com/resource-center/definitions/what-is-a-digital-footprint#:~:text=A%20digital%20footprint%20%E2%80%93%20sometimes%20called,person%27s%20online%20activities%20and%20devices.)).
 
 
 No system is impervious to hacking, much like a castle is never completely immune to infiltration. However, just as a fortified castle has multiple layers of defenses; moats, walls, gates, and guards, effective cybersecurity relies on implementing various layers of protection. Each layer adds strength to the overall defense, making it more difficult for adversaries to breach the system and minimizing the potential damage if they do.
