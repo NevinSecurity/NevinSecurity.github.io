@@ -3,9 +3,12 @@
 ### A digital footprint – sometimes called a digital shadow or an electronic footprint – refers to the trail of data you leave when using the internet. It includes websites you visit, emails you send, and information you submit online. A digital footprint can be used to track a person's online activities and devices 
 ref: [Kaspersky](https://usa.kaspersky.com/resource-center/definitions/what-is-a-digital-footprint#:~:text=A%20digital%20footprint%20%E2%80%93%20sometimes%20called,person%27s%20online%20activities%20and%20devices.)
 
-Reducing your digital footprint isn't only beneficial to your employer's security, it can help protect you or your loved ones. Every digital asset you own, including your identity, can be stolen by hackers. It is even more devistating learning that most of the time, not even the government can help you get your funds returned. 
 
 No system is impervious to hacking, much like a castle is never completely immune to infiltration. However, just as a fortified castle has multiple layers of defenses; moats, walls, gates, and guards, effective cybersecurity relies on implementing various layers of protection. Each layer adds strength to the overall defense, making it more difficult for adversaries to breach the system and minimizing the potential damage if they do.
+
+Reducing your digital footprint isn't only beneficial to you, it can help strengthen your family's, friend's, and employer's security. It's important to have good security, because it makes you way less likely to fall for any scams or phishing attempts.
+
+While you may feel like you're not at risk yourself, if you work for a company, chances are the risks are a lot higher than you'd expect. Globally, 72.7% of all organizations fell prey to a ransomware attack in 2023 ([cobalt](https://www.cobalt.io/blog/cybersecurity-statistics-2024)). Security professionals have observed an increase in cyberattacks over the past year, and some think it'll increase for years to come.
 
 There are many different attacks that hackers can use to steal from individuals, but here are a few that you can soon be a pro at blocking:  
 
@@ -14,7 +17,6 @@ There are many different attacks that hackers can use to steal from individuals,
 * **Phishing**: Trickery through fake emails or messages, pretending to be trustworthy sources, to steal personal information or login credentials.
 
 * **Pig Butchering / Catfishing**: Creating fake online personas to deceive others into romantic relationships or financial scams.
-
 * **Tech Support Scams / Gift Card Scams**: Pretending to be tech support or offering fake prizes, then tricking victims into providing money or gift card codes for supposed fixes or rewards.
 
 * **Password Reuse Attacks**: Exploiting the use of the same password across multiple accounts to gain unauthorized access to sensitive information or services.
@@ -25,8 +27,10 @@ There are many different attacks that hackers can use to steal from individuals,
 
 <br>
 
-### Basic Layers For Digital Privacy and Security
+### Common Layers For Basic Digital Privacy and Security
 
+
+I'm going to talk about 7 basic layers of security that you can implement yourself. While only the last 3 layers are about reducing your Digital Footprint, the first 5 layers are precursors; they teach very basic techniques that will go a long way if you're new to personal security. These first 5 techniques will most likely be required for any corporate position. 
 Here are some of the layers that, if implemented, can drastically increase your security and reduce your digital footprint.
 * Use MFA where ever possible.
 * Slow down; read your hyperlinks and error messages
