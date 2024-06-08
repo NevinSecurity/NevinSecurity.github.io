@@ -8,7 +8,7 @@ Reducing your digital footprint isn't only beneficial to your employer's securit
 No system is impervious to hacking, much like a castle is never completely immune to infiltration. However, just as a fortified castle has multiple layers of defenses; moats, walls, gates, and guards, effective cybersecurity relies on implementing various layers of protection. Each layer adds strength to the overall defense, making it more difficult for adversaries to breach the system and minimizing the potential damage if they do.
 
 There are many different attacks that hackers can use to steal from individuals, but here are a few that you can soon be a pro at blocking:  
-
+```
     Phishing: Trickery through fake emails or messages, pretending to be trustworthy sources, to steal personal information or login credentials.
 
     Pig Butchering / Catfishing: Creating fake online personas to deceive others into romantic relationships or financial scams.
@@ -20,10 +20,20 @@ There are many different attacks that hackers can use to steal from individuals,
     Identity Theft: Stealing personal information, such as Social Security numbers or credit card details, to impersonate individuals for financial gain or fraudulent activities.
 
     Baiting: Tempting individuals with enticing offers or promises to lure them into compromising situations, such as clicking on malicious links or downloading infected files.
-
+```
 <br>
 
 <br>
+
+### Basic Layers For Digital Privacy and Security
+
+Here are some of the layers that, if implemented, can drastically increase your security and reduce your digital footprint.
+* Use MFA where ever possible.
+* Slow down; read your hyperlinks and error messages
+* Change breached email account’s passwords.
+* Use a password manager.
+* Limit your exposure.
+
 
 ### Use MFA where ever possible.
 First and foremost, it is extremely important to setup multi-factor authentication (MFA, or sometimes 2FA) where ever possible. This is the little code or push notification that you get while logging in to prove it's really you. Although it can be slightly annoying, it drastically increases the security of accounts. This will likely be the single, most beneficial step to secure you. This will always be available for your email, bank, and social media accounts. It can prevent someone getting into your account if you have weak passwords, or have reused passwords that have been breached in the past.
@@ -78,19 +88,22 @@ If you're constantly posting to social media, it may be a good idea to stagger t
 You can also limit your exposure to hacks by being cautious about what tech you use at home. If you use third-party security systems in your own home, they might already be compromised!
 [During Ring Doorbell's security incidents in 2023](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users), hackers would look for people who had recently left their property before breaking in. There were multiple accounts of this occurring, along with porch pirates erasing footage of the crime scene ([source](https://community.ring.com/t/porch-thief-hacked-in-and-erased-doorbell-video-of-the-crime/2695)).
 
-Reducing the amount of [IoT devices](https://builtin.com/articles/iot-devices), or internet connected devices, at home could prevent a break in. However, it's much more common to expose your data through the a website or social media app. I always recommend using the add blocker, [Ublock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), in order to reduce adds and the likeliness that you'll click on a malicious link or popup when browsing.
+Reducing the amount of [IoT devices](https://builtin.com/articles/iot-devices), or internet connected devices, at home could prevent a break in. However, it's much more common to expose your data through a website or social media platform. 
 
-It is also a good idea to reduce the exposure of your social media accounts by vetting your friendlist, and changing your privacy settings to prevent leakage of identifying data. The most common identifying data is your phone number and email address. 
+* Quick Tip: I always recommend using the add blocker, [Ublock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), in order to reduce adds and the likeliness that you'll click on a malicious link or popup when browsing.
+
+It is also a good idea to reduce the exposure of your social media accounts by vetting your friendlist, and changing your privacy settings to prevent leakage of identifying data. The most common identifiable data is your phone number and email address. 
 
 <br>
 
 ### Use multiple email addresses.
 
-Most people already have a few emails. Some they use for junk, and some they use for banking. Using a service like [SimpleLogin](https://simplelogin.io/) along side a password manager can make it easy to split your online exposures into multiple identities. This makes it more difficult for companies or hackers to collect data on you. As a reminder, it's important to protect your data from these companies because they don't always do a great job at securing your data from hackers.
+Most people already have a few emails. Some they use for junk, and some they use for banking. Using a service like [SimpleLogin](https://simplelogin.io/) along side a password manager can make it easy to split your online exposures into multiple identities. This makes it more difficult for companies or hackers to collect data on you. 
+* As a reminder, it's important to protect your data from companies because they don't always do a great job at securing your data from hackers.
 
-In a healthcare data leak, these data sets will likely relate your healthcare information back to your name, email, phone number, social security number. However, with most data leaks, your account may be primarly linked to your email address or phone number as a means of identification.  In turn, email addresses and phone numbers are extremely valuable information for companies that [collect data for profit](https://www.knowledge-sourcing.com/report/global-data-broker-market), which is likely most websites you use. These companies will say the collection of your data is safe, because it's deanonymized. However, it doesn't ever really end up being deanonymized, as it will typically contain enough meta data to easily identify you.
+In a healthcare dataleak, it will likely relate your healthcare information back to your name, email, phone number, or social security number ([SSN](https://www.youtube.com/watch?v=Erp8IAUouus)). However, with most data leaks, your account may be primarly linked to your email address or phone number as a means of identification.  In turn, email addresses and phone numbers are extremely valuable information for companies that [collect data for profit](https://www.knowledge-sourcing.com/report/global-data-broker-market), which is likely most websites you use. These companies will say the collection of your data is safe, because it's deanonymized. However, it doesn't ever really end up being deanonymized, as it will typically contain enough data to easily identify you.
 
-Since it is more difficult to obtain multiple phone numbers, it's recommended to treat your phone number as you would your SSN and to use multiple email addresses if you want to limit your exposure, without reducing your online usage. Using a service for this may seem overkill, but you'd be surprised at how effective it is in reducing spam emails, spam calls, and your digital footprint. 
+Since it is more difficult to obtain multiple phone numbers, it's recommended to treat your phone number as you would your [SSN](https://www.youtube.com/watch?v=Erp8IAUouus) and to use multiple email addresses if you want to limit your exposure, without reducing your online usage. Using a service for this may seem overkill, but you'd be surprised at how effective it is in reducing spam emails, spam calls, and your digital footprint. 
 
 <br>
 
@@ -106,10 +119,12 @@ In some cases like applying for jobs, so much of your private information is exp
 
 This ensures your data isn't over exposed by recruiters to resume databases that may be unmanaged and insecure. Do not try this if you're applying to government positions as it could come across as ill intent. 
 
-I've heard many reasons of why this is not a good idea, but it can drastically increase your security for you and your new employer. 
+While some employers may not agree, it ultimately increases your security for you and your new employer. It's possible that some employers may instantly dismiss your application due to feeling tricked, but it's much more accepting in companies with positive cybersecurity culture. These environments tend to be much more appealing to work for anyway, so it can act as a filter if you're interested in security-conscious companies.
+
 <br>
 
 *A firefighter may have more safegaurds for preventing fires in their own home, like three fire extinguishers and fire alarms, because they fight fire on a regular basis. This might seem weird to someone who might only have one, but firefighters are constently reminded of the destruction that fire is capable of.* 
+
 <br>
 
 Reducing your online footprint is a practice of personal data security which directly translates into enterprise data security. Data security professionals that don't practice reducing their online footprint can be ripe for malicious advisaries to target. This is due to prevelance of collecting Open Source Intelligence, or OSINT, for reconnaissance. Shown in the [previously linked MITRE framework](https://attack.mitre.org/techniques/T1589/), gathering your victims identity information is a commonly performed technique in the first step of hacking an enterprise. Being able to directly limit the amount of information that is exposed about you on the internet can return dividens to you and your future employers. 
@@ -120,6 +135,6 @@ Reducing your online footprint is a practice of personal data security which dir
 
 ### In Conclusion
 
-There is no single button or product that can prevent you from being hacked, it requires multiple layers of protection.
+There is no single button or product that can prevent you from being hacked, as it requires multiple layers of protection. Once you have your castle walls, trench, moat, and draw-bridge ready, you'll be ready to defend yourself against some of the most devistating hacks.
 
 I hope you've enjoyed some basic layers that you could implement yourself to start increasing your security and reduce your digital footprint. Have fun browsing the web, and be careful what you click.
