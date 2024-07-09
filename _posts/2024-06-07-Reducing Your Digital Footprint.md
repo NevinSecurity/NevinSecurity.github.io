@@ -42,7 +42,7 @@ Here are some of the layers that, if implemented, can drastically increase your 
 
 <br>
 
-### Use MFA where ever possible.
+### Use MFA wherever possible.
 First and foremost, it is extremely important to setup multi-factor authentication (MFA, or sometimes 2FA) where ever possible. This is the little code or push notification that you get while logging in to prove it's really you. Although it can be slightly annoying, it drastically increases the security of accounts. This will likely be the single, most beneficial step to secure you. This will always be available for your email, bank, and social media accounts. It can prevent someone getting into your account if you have weak passwords, or have reused passwords that have been breached in the past.
 
 <br>
